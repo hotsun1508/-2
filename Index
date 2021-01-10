@@ -43,8 +43,8 @@
       역동적으로 만들어봐야겠다!
     </p>
     <a href="https://www.notion.so/HTML-2-ac1b96128ff246ee87a36aef27a7afef" target="_blank">멋사 HTML-2 강의</a>
-    <a href="멋쟁이사자처럼/Session2/page1.html">page 1</a>
-    <a href="멋쟁이사자처럼/Session2/page2.html">page 2</a>
+    <a href="page1.html">page 1</a>
+    <a href="page2.html">page 2</a>
   </body>
 </html>
 ```
